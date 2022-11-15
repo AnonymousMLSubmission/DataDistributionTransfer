@@ -70,3 +70,4 @@ export GOOGLE_APPLICATION_CREDENTIALS=path to the JSON file
 16. source ~/.bashrc
 
 Then you can either run caliban [locally](https://caliban.readthedocs.io/en/stable/cli/caliban_run.html) or on the [cloud using GCP Training jobs](https://caliban.readthedocs.io/en/stable/cli/caliban_cloud.html)
+
