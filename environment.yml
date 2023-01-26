@@ -148,4 +148,4 @@ dependencies:
     - wilds==1.1.0
     - git+https://github.com/modestyachts/ImageNetV2_pytorch
     - https://pytorch-geometric.com/whl/torch-1.7.0+cu110/torch_scatter-2.0.6-cp36-cp36m-linux_x86_64.whl
-prefix: /home/username/anaconda3/envs/wise-ft
+prefix: /home/username/anaconda3/envs/datadistribution
