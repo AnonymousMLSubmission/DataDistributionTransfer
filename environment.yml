@@ -1,4 +1,4 @@
-name: datadistibution
+name: datadistribution
 channels:
   - pytorch
   - conda-forge
