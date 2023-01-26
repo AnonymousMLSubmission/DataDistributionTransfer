@@ -1,4 +1,4 @@
-name: wiseft
+name: datadistibution
 channels:
   - pytorch
   - conda-forge
